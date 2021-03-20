@@ -1,5 +1,12 @@
 # @graphql-mesh/merger-federation
 
+## 0.8.29
+
+### Patch Changes
+
+- Updated dependencies [6b8b23a4e]
+  - @graphql-mesh/types@0.35.2
+
 ## 0.8.28
 
 ### Patch Changes

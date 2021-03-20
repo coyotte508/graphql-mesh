@@ -1,5 +1,11 @@
 # @graphql-mesh/types
 
+## 0.35.2
+
+### Patch Changes
+
+- 6b8b23a4e: feat(openapi): allow source spec inline injection
+
 ## 0.35.1
 
 ### Patch Changes
